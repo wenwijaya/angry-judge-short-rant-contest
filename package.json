@@ -1,0 +1,1 @@
+{"description":"A funny rant about the office printer, for the Angry Judge: The Short Rant Contest on make.fun","license":"MIT","main":"main.ts","name":"angry-judge-the-short-rant-contest","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
